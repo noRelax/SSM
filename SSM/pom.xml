@@ -6,7 +6,7 @@
 	<artifactId>SSM-O</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-
+<!—-abc-—>
 	<name>SSM</name>
 	<url>http://github.com/liyifeng1994/ssm</url>
 	<dependencies>
