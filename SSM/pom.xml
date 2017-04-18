@@ -9,9 +9,6 @@
 
 	<name>SSM</name>
 	<url>http://github.com/liyifeng1994/ssm</url>
-
-
-
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
